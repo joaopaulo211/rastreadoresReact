@@ -50,7 +50,7 @@ div.container {
 }
 
 div {
-    max-width: 80%;
+    max-width: 94%;
     max-height: 400px;
     margin: 12px auto
 }
@@ -68,15 +68,15 @@ thead th {
     position: sticky;
     top: 0;
     background: #9fe4ff;
-    color: #FFF;
+    color: rgb(68, 68, 68);
 }
 
 tbody th {
     position: sticky;
     left: 0;
-    border-right: 1px solid #CCC;
+   
     background: #c3eeff;
-    color: rgb(90, 63, 63);
+    color: rgb(68, 68, 68);
 }
 
 thead th:first-child {
@@ -136,11 +136,11 @@ li {
 
 h2 {
     margin-left: 12px;
-    color: darkgray;
+    color: rgb(10, 10, 10);
 }
 
 #legenda {
-    max-width: 50%;
+    max-width: 60%;
     max-height: 400px;
     background-color: rgb(240, 240, 240);
     margin-left: 190px;
